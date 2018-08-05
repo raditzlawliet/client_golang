@@ -1,3 +1,5 @@
+# Warning! this fork purpose is for async with https://github.com/eaciit/knot only. please use original https://github.com/prometheus/client_golang
+
 # Prometheus Go client library
 
 [![Build Status](https://travis-ci.org/prometheus/client_golang.svg?branch=master)](https://travis-ci.org/prometheus/client_golang)
